@@ -4,7 +4,7 @@ Our work is spread across a few key repositories. These are roughly divided in t
 
 ## Applications
 
-The DSL and ML teams are each producing two top-level applications. DSL is creating a *faster* climate model, and ML is creating a *better* one:
+The domain specific language (DSL) and machine learning (ML) teams are each producing two top-level applications. DSL is creating a *faster* climate model, and ML is creating a *better* one:
 
 - (better) https://github.com/VulcanClimateModeling/fv3net/. A machine-learning capable climate model, machine learning training schemes, and diagnostics. This repository uses a monorepo style to suit the ML team's highly coordinated development approach.
 - (faster) https://github.com/VulcanClimateModeling/fv3core. FV3core is a Python version, using GridTools GT4Py with CPU and GPU backend options, of the FV3 dynamical core (fv3gfs-fortran repo).
