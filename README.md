@@ -19,5 +19,8 @@ The applications above depend on a series of libraries:
 - https://github.com/VulcanClimateModeling/fv3gfs-wrapper. A python wrapper of FV3, used to apply python-based ML predictions in fv3net.
 - https://github.com/VulcanClimateModeling/fv3config. A tool for configuring and preparing input data for FV3GFS. Used to provision test data for several repos, and to configure scientific experiments declaratively or programatically with python.
 - https://github.com/VulcanClimateModeling/fv3gfs-util. A toolkit of Python objects and routines for writing weather and climate models. Contains features like halo-exchange and parallel I/O. Used by fv3gfs-wrapper and fv3core.
-- https://github.com/VulcanClimateModeling/gt4py. Our fork of the GT4Py Python library for generating high-performance implementation of stencil kernels from a high-level defintion using regular Python functions.
+
+We also maintain a fork of the baseline GT4Py library for our own rapid development before contributing new features upstream.
+
+- https://github.com/VulcanClimateModeling/gt4py. GT4Py Python library for generating high-performance implementation of stencil kernels from a high-level defintion using regular Python functions.
 
