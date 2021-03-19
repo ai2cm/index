@@ -6,7 +6,7 @@ Our work is spread across a few key open-source, open-development repositories. 
 
 The domain specific language (DSL) and machine learning (ML) teams are each producing two top-level applications. DSL is creating a *faster* climate model, and ML is creating a *better* one:
 
-- (better) https://github.com/VulcanClimateModeling/fv3net/. A machine-learning capable climate model, machine learning training schemes, and diagnostics. This repository uses a monorepo style to suit the ML team's highly coordinated development approach.
+- (better) https://github.com/VulcanClimateModeling/fv3net. A machine-learning capable climate model, machine learning training schemes, and diagnostics. This repository uses a monorepo style to suit the ML team's highly coordinated development approach.
 - (faster) https://github.com/VulcanClimateModeling/fv3core. FV3core is a Python version of the FV3 dynamical core based on the GT4Py domain-specific language which can run on x86 CPUs and NVIDIA GPUs.
 
 We also maintain a fork of the *baseline* FV3GFS model with improved diagnostic capability and continuous integration.
