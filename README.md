@@ -1,6 +1,6 @@
 # Vulcan Climate Modeling Repostories
 
-Our work is spread across a few key repositories. These are roughly divided in to Libraries and Applications.
+Our work is spread across a few key open-source, open-development repositories. These are roughly divided in to Applications and Libraries.
 
 ## Applications
 
