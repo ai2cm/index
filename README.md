@@ -1,4 +1,4 @@
-# Vulcan Climate Modeling Repostories
+# Ai2 Climate Modeling Repostories
 
 Our work is spread across a few key open-source, open-development repositories. These are roughly divided in to Applications and Libraries.
 
